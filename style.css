@@ -1,0 +1,28 @@
+body { padding-top: 50px; }
+
+#home
+{
+    background: url("img/hero.jpg");
+    height: 600px;
+    /*padding-top: 70px;*/
+}
+
+#despre
+{
+    padding-top: 70px;
+}
+
+#activitati
+{
+    padding-top: 70px;
+}
+
+#photo
+{
+    padding-top: 70px;
+}
+
+#contact
+{
+    padding-top: 70px;
+}
